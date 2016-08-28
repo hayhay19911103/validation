@@ -1,0 +1,533 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"mat",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"cell",
+				"cellspacing	Attr"
+			],
+			[
+				"ajaxst",
+				"ajaxstart	$.ajaxStart()"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"fs",
+				"font-size"
+			],
+			[
+				"fw",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"fla",
+				"float"
+			],
+			[
+				"boxs",
+				"box-shadow"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"scroll",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"my",
+				"myDate"
+			],
+			[
+				"hi",
+				"height	.height()"
+			],
+			[
+				"onmouse",
+				"onmouseover"
+			],
+			[
+				"Li",
+				"Li1"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"f",
+				"fun	Function"
+			],
+			[
+				"onm",
+				"onmouseover"
+			],
+			[
+				"O",
+				"oDiv"
+			],
+			[
+				"oDIV",
+				"oDiv"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"clear",
+				"clearInterval"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"prev",
+				"preventDefault"
+			],
+			[
+				"show",
+				"showMes"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"anim",
+				"animate	.animate()"
+			],
+			[
+				"st",
+				"stop	.stop()"
+			],
+			[
+				"this",
+				"This"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"gif",
+				"t_book.gif	w:770 h:34"
+			],
+			[
+				"s",
+				"src	Attr"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"backgroundc",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "PCI",
+		"selected_items":
+		[
+			[
+				"PCI",
+				"Package Control: Install Package"
+			],
+			[
+				"sni id",
+				"Snippet: getElementById"
+			],
+			[
+				"pc",
+				"Package Control: List Packages"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"paci",
+				"Package Control: Install Package"
+			],
+			[
+				"snip",
+				"Snippet: Function"
+			],
+			[
+				"sn",
+				"Snippet: Function"
+			],
+			[
+				"packagec",
+				"Package Control: List Packages"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/code/jquery/在线聊天室（服务器脚本为完成）/Login.html",
+		"/F/code/jquery/style.css",
+		"/F/code/jquery/validation插件验证.html",
+		"/F/code/jquery/Login.html",
+		"/F/code/jquery/jsMain.js",
+		"/F/code/jquery/ChatMain.html",
+		"/F/code/jquery/jsLogin.js",
+		"/F/code/jquery/cssLogin.css",
+		"/F/code/jquery/cssMain.css",
+		"/F/code/jquery/1.html",
+		"/F/code/js/js动画/1速度动画.html",
+		"/C/Users/hayhay/Desktop/1.html",
+		"/C/Users/hayhay/Desktop/style.css",
+		"/F/code/前端下载的代码/js/5商城导航/HTMLPage1.htm",
+		"/F/code/前端下载的代码/js/5商城导航/HTMLPage2-1.htm",
+		"/F/code/js/京东商城分类导航/3.html",
+		"/F/code/js/京东商城分类导航/1.html",
+		"/F/code/js/京东商城分类导航/2.html",
+		"/F/code/前端下载的代码/js/4信息滚动效果/文字无缝滚动（源代码）.html",
+		"/F/code/前端下载的代码/js/4信息滚动效果/间歇性滚动（源代码）.html",
+		"/F/code/前端下载的代码/js/4信息滚动效果/marquee滚动效果（源代码）.html",
+		"/F/code/js/信息滚动/3.html",
+		"/F/code/js/信息滚动/2.html",
+		"/F/code/js/信息滚动/1.html",
+		"/F/code/js/倒计时/显示时间.html",
+		"/F/code/js/倒计时/倒计时.html",
+		"/F/code/js/倒计时/抢时限.html",
+		"/F/code/js/倒计时/抢时限",
+		"/C/Users/hayhay/js/倒计时.html",
+		"/F/code/js/DOM事件/event.js",
+		"/F/code/js/DOM事件/script.js",
+		"/F/code/html+css/10.html",
+		"/F/code/html+css/11微博发言.html",
+		"/F/code/html+css/导航条/15.html",
+		"/F/code/html+css/5.html",
+		"/F/code/html+css/7.html",
+		"/F/code/js/DOM事件/1.html",
+		"/F/code/js/js动画/8透明度-getStyle需要修改的地方opacity.html",
+		"/F/code/js/js动画/9链式运动.html",
+		"/F/code/js/js动画/4多物体透明度.html",
+		"/F/code/js/js动画/6获取样式.html",
+		"/F/code/js/js动画/9透明度-getStyle需要修改的地方opacity.html",
+		"/F/code/js/js动画/10链式运动.html",
+		"/F/code/js/js动画/11物体同时运动json.html",
+		"/F/code/js/js动画/8多物体运动(利用getStyle) 透明度.html",
+		"/F/code/js/js动画/5多物体运动.html",
+		"/F/code/js/js动画/9透明度-getStyle需要修改的地方.html",
+		"/F/code/js/js动画/7多物体运动(利用getStyle）宽，高.html",
+		"/F/code/js/js动画/josn.html",
+		"/F/code/js/js动画/11多物体同时运动json.html",
+		"/F/code/js/js动画/13.html",
+		"/F/code/js/js动画/11.html",
+		"/F/code/js/js动画/script.js",
+		"/F/code/js/js动画/10.html",
+		"/F/code/js/js动画/9.html",
+		"/F/code/js/js动画/8.html",
+		"/F/code/js/js动画/opacity(multiple).html",
+		"/F/code/js/js动画/7.html",
+		"/F/code/js/js动画/4.html",
+		"/F/code/js/js动画/6.html",
+		"/F/code/js/js动画/3.html",
+		"/F/code/js/js动画/5.html",
+		"/F/code/js/js动画/opcity.html",
+		"/F/code/js/js动画/2.html",
+		"/F/code/js/10.html",
+		"/F/code/js/move.js",
+		"/F/code/josn.html",
+		"/F/code/js/13.html",
+		"/F/code/js/11.html",
+		"/F/code/js/9.html",
+		"/F/code/js/8.html",
+		"/F/code/js/7.html",
+		"/F/code/js/6.html",
+		"/F/code/js/5.html",
+		"/F/code/js/3.html",
+		"/F/code/js/2.html",
+		"/F/code/js/opacity(multiple).html",
+		"/F/code/js/opcity.html",
+		"/F/code/js/4.html",
+		"/F/code/js/script.js",
+		"/F/code/js/1.html",
+		"/F/code/js/event.js",
+		"/F/code/js/event.html",
+		"/F/code/16.html",
+		"/F/code/17.html",
+		"/F/code/14.html",
+		"/F/code/15.html",
+		"/F/code/13.html",
+		"/F/code/12.html",
+		"/F/code/11.html",
+		"/F/code/7.html",
+		"/F/code/index.html",
+		"/F/code/10.html",
+		"/F/code/9.html",
+		"/F/code/8.html",
+		"/F/code/6.html",
+		"/F/code/1.html",
+		"/F/code/5.html",
+		"/F/code/前端/html+css/2网页布局基础/case2/images/banner.gif",
+		"/F/code/3.html",
+		"/F/code/2.html",
+		"/C/Users/hayhay/AppData/Roaming/Sublime Text 3/Packages/User/Fetch.sublime-settings",
+		"/F/code/4.html",
+		"/C/Users/hayhay/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/F/code/一列布局.html",
+		"/C/Users/hayhay/Desktop/DOM事件处理源码/event/js/1.html",
+		"/C/Users/hayhay/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/hayhay/Desktop/DOM事件处理源码/event/js/script.js",
+		"/F/code/跨浏览器事件处理程序",
+		"/F/code",
+		"/F/html5 第一季/code/index.html",
+		"/F/html5 第一季/code/index3.html",
+		"/F/html5 第一季/code/index2.html",
+		"/C/Users/hayhay/AppData/Roaming/Sublime Text 3/Packages/User/index.html",
+		"/C/Users/hayhay/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/hayhay/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/hayhay/Desktop/case1 - 副本.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<!",
+			"\">\n",
+			"><",
+			"width",
+			"{",
+			"!"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
